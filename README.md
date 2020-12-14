@@ -1,4 +1,4 @@
-# Legion del Mal
-Un repositorio para conquistar el mundo
+# Visión Artificial
+Ejemplos relacionados con la asignatura de Visión Artifical del Grado de Ing. en Geomática, Escuela Politécnica de Mieres.
 
-Básicamente aprenderemos más sobre Git y GitHub con este proyecto
+Básicamente aprenderemos los conceptos básicos de Deep Learning in CNN´s 
